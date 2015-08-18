@@ -11,8 +11,8 @@ Playing around with offline maps and [osmdroid][osmdroid] ...
 1. Download and install [Mobile Atlas Creator][mobac].
 2. Export tiles with the following settings:
 
-    > Mapsource: `OpenStreetMap MapQuest`  
-    > Tile format: `PNG`  
+    > Mapsource: `OpenStreetMap MapQuest`
+    > Tile format: `PNG`
     > Atlas Content: `MapquestOSM`
 
     ![Mobile Atlas Creator](gfx/MobileAtlasCreator.png "Mobile Atlas Creator")
