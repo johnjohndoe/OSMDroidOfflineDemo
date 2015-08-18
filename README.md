@@ -2,6 +2,10 @@
 
 Playing around with offline maps and [osmdroid][osmdroid] ...
 
+
+![Screenshot of the application](gfx/app-screenshot-tablet.png "Screenshot of the application")
+
+
 ## Preparing map tiles
 
 1. Download and install [Mobile Atlas Creator][mobac].
